@@ -7,7 +7,7 @@
 > but first, let's install Python!
 
 Go to [Python's official website](https://www.python.org/) and download the latest version of Python. Follow the installation instructions for your operating system. Make sure you tick the download pip option.
-![Python official page](https://raw.githubusercontent.com/penndpencil/penndpencil.github.io/main/_assests/Capture.png)
+![Python official page](https://raw.githubusercontent.com/abhishekMeena13/abhishekMeena13.github.io/main/_assests/Capture.png)
 
 Once Python is installed, you can verify the installation by opening a terminal or command prompt and typing:
 
@@ -23,13 +23,13 @@ pip install -q -U google-generativeai
 ```
 Now, let's get the Gemini's API key. For that, go to [Google's makersuite website](makersuite.google.com/app/apikey).
 
-![Google makersuite website](https://raw.githubusercontent.com/penndpencil/penndpencil.github.io/main/_assests/Cature.png)
+![Google makersuite website](https://raw.githubusercontent.com/abhishekMeena13/abhishekMeena13.github.io/main/_assests/Cature.png)
 You may *also* experiment with so many tools given there. Honestly, it looks so cool!
 But before that, let's complete what we started. 
 Under API keys, click the “Create API key in new project” button.
 
 
-![Click here](https://raw.githubusercontent.com/penndpencil/penndpencil.github.io/main/_assests/generate-google-gemini-api-key.png)
+![Click here](https://raw.githubusercontent.com/abhishekMeena13/abhishekMeena13.github.io/main/_assests/generate-google-gemini-api-key.png)
 
 Copy the API key and keep it private. Do not publish or share the API key publicly.
 
