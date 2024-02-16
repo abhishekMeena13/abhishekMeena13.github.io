@@ -1,5 +1,17 @@
-Here you can say lots of fun things about your site.
+![](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Sleepy%20Abhishek&descAlignY=18&reversal=true&textBg=false&fontSize=60&animation=blink)
 
-Maybe say a some things about yourself.
+```javascript
+const name = "Abhishek";
+let age = 13;
+const hobbies = ["Coding", "Gaming", "Reading", "Designing Fighter Planes"];
+let favoriteBook = "The Hobbit";
+let favoriteGame = "Brawl Stars";
+let favoriteSubject = "Science";
+const codingLanguages = ["JavaScript", "Python"];
 
-Or maybe what you plan to blog about.
+let codingGoals = [
+    "Learn a new programming language",
+    "Complete my OWN language (nexLang)"
+];
+
+```
