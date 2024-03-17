@@ -1,3 +1,10 @@
+<style>
+    body {
+        background-color: #36454f;
+        color: rgb(201, 186, 176);
+    }
+</style>
+
 # How do I make a Virtual Assistant in Python!?
 
 ## Well well well, Worry not, because Google just launched Gemini!!!
