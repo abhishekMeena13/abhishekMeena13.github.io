@@ -1,4 +1,21 @@
-# How to Make and Play Your Own Private Server in Brawl Stars?
+# How to Make and Play Your Own Private Server in Brawl Stars
+
+<style>
+h1 {
+  color: #4CAF50;
+  font-family: Arial, sans-serif;
+}
+
+h2 {
+  color: #1E88E5;
+  font-family: Arial, sans-serif;
+}
+
+a {
+  color: #FF5722;
+  font-family: Arial, sans-serif;
+}
+</style>
 
 ### Introduction
 Hey there, guys! It's Abhishek again!! In this tutorial, I'll guide you through the process of creating and playing on your own private server in Brawl Stars using your Android device.
