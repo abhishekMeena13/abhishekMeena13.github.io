@@ -10,8 +10,8 @@ hr {
 }
 
 ::selection {
-  background-color: #60d1cf;
-  color: #DCAE96;
+  text-shadow: none;
+  color: #cbeafb;
   
 }
 /* Post navigation links */
