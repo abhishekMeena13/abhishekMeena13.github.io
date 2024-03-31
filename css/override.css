@@ -11,7 +11,7 @@ hr {
 
 ::selection {
   text-shadow: none;
-  color: #cbeafb;
+  background: #cbeafb;
   
 }
 /* Post navigation links */
