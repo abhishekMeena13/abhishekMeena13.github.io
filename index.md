@@ -2,12 +2,9 @@
 
 
 
+Chilling 😎
+hey, im abhishek meena, 14 and all that. so i know a bunch of programming languages, python, js, a lil c++, html/css (if u count those as one, lol). i dont really work for anyone, just do my own thing. into ai and all that jazz. even made my own llm, and im workin on my own language, nexlang, and this jarvis thing... DM if you need any help 
+Discord: ineedsleep14_. 
 
-"Watch me as I move in a direction laughs in Chester.
 
-I am a professional gamer who consistently works as a programmer.
-
-As Batman said,
-
-I am human by day, but I fight for justice at night. For justice, I fight against ChatGPT; it could make me lose my job!"
-
+Working on SSI-ANDS
